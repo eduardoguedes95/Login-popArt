@@ -1,6 +1,6 @@
 # Login-popArt
 Projeto tela de login com tema PopArt.
-> Tecnologias usadas
+> Tecnologias usadas >
 HTML5
 CSS3
 JAVASCRIPT
